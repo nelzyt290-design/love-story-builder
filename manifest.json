@@ -1,0 +1,71 @@
+{
+  "name": "Love Story Builder - Create Your Cinematic Love Story",
+  "short_name": "Love Story Builder",
+  "description": "Build a beautiful, interactive, cinematic love story website with photos, music, timeline, and memories. No coding required.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "scope": "./",
+  "orientation": "portrait-primary",
+  "background_color": "#0a0e1f",
+  "theme_color": "#e91e63",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect fill='%230a0e1f' width='192' height='192'/><path fill='%23e91e63' d='M96 172c42 0 76-34 76-76S138 20 96 20 20 54 20 96s34 76 76 76zm0-8c-38 0-68-30-68-68s30-68 68-68 68 30 68 68-30 68-68 68zm-8-50c0 4.4 3.6 8 8 8s8-3.6 8-8-3.6-8-8-8-8 3.6-8 8z'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect fill='%230a0e1f' width='512' height='512'/><path fill='%23e91e63' d='M256 462c113.8 0 206-92.2 206-206S369.8 50 256 50 50 142.2 50 256s92.2 206 206 206zm0-20c-102.6 0-186-83.4-186-186s83.4-186 186-186 186 83.4 186 186-83.4 186-186 186zm0-140c27.6 0 50-22.4 50-50s-22.4-50-50-50-50 22.4-50 50 22.4 50 50 50z'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["lifestyle", "productivity"],
+  "screenshots": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 540 720'><rect fill='%230a0e1f' width='540' height='720'/><circle cx='270' cy='360' r='100' fill='%23e91e63' opacity='0.3'/></svg>",
+      "sizes": "540x720",
+      "type": "image/svg+xml",
+      "form_factor": "narrow"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Create Story",
+      "short_name": "New Story",
+      "description": "Start creating a new love story",
+      "url": "./admin.html",
+      "icons": []
+    },
+    {
+      "name": "View Gallery",
+      "short_name": "Gallery",
+      "description": "View your love story gallery",
+      "url": "./gallery.html",
+      "icons": []
+    },
+    {
+      "name": "Timeline",
+      "short_name": "Timeline",
+      "description": "View your timeline of memories",
+      "url": "./timeline.html",
+      "icons": []
+    }
+  ],
+  "prefer_related_applications": false,
+  "share_target": {
+    "action": "./share",
+    "method": "POST",
+    "enctype": "multipart/form-data",
+    "params": {
+      "files": [
+        {
+          "name": "media",
+          "accept": ["image/*", "video/*", "audio/*"]
+        }
+      ]
+    }
+  }
+}
