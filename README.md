@@ -88,5 +88,4 @@ Created with love for couples who want to celebrate their unique story.
 
 ---
 
-**Live Preview:** [love-story-builder.com]
 **GitHub:** [github.com/nelzyt290-design/love-story-builder](https://github.com/nelzyt290-design/love-story-builder)

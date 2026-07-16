@@ -15,8 +15,7 @@
     "animations": true,
     "particles": true,
     "soundEnabled": true,
-    "cursorEnabled": true,
-    "lightboxEnabled": true
+    "cursorEnabled": true
   },
   "privacy": {
     "isPublic": false,
