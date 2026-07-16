@@ -9,10 +9,6 @@ const PRECACHE_URLS = [
   '/',
   '/index.html',
   '/admin.html',
-  '/preview.html',
-  '/settings.html',
-  '/gallery.html',
-  '/timeline.html',
   '/css/reset.css',
   '/css/variables.css',
   '/css/style.css',
@@ -45,7 +41,6 @@ self.addEventListener('activate', event => {
 
 self.addEventListener('fetch', event => {
   const { request } = event;
-  const url = new URL(request.url);
 
   if (request.method !== 'GET') return;
 

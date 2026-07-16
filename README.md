@@ -62,7 +62,7 @@ Users can customize:
 
 ```
 love-story-builder/
-├── index.html              # Main page
+├── index.html              # Main landing page
 ├── admin.html              # Admin dashboard
 ├── preview.html            # Live preview
 ├── settings.html           # Settings page
