@@ -1,0 +1,26 @@
+{
+  "user": {
+    "preferences": {
+      "theme": "dark",
+      "language": "en",
+      "timezone": "UTC"
+    },
+    "notifications": {
+      "enabled": true,
+      "sound": true,
+      "vibration": true
+    }
+  },
+  "display": {
+    "animations": true,
+    "particles": true,
+    "soundEnabled": true,
+    "cursorEnabled": true,
+    "lightboxEnabled": true
+  },
+  "privacy": {
+    "isPublic": false,
+    "allowSharing": true,
+    "allowDownload": true
+  }
+}

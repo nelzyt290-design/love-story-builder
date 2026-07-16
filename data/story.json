@@ -1,0 +1,57 @@
+{
+  "id": "story-1",
+  "couple": {
+    "name1": "Your Name",
+    "name2": "Their Name",
+    "nickname1": "Nickname 1",
+    "nickname2": "Nickname 2",
+    "startDate": "2020-01-01",
+    "location": "Special Place"
+  },
+  "hero": {
+    "title": "Our Love Story",
+    "subtitle": "A journey of two hearts becoming one",
+    "backgroundType": "aurora",
+    "backgroundColor": "#0a0e27"
+  },
+  "chapters": [
+    {
+      "id": "chapter-1",
+      "title": "Chapter One: The Beginning",
+      "content": "Write your first chapter here...",
+      "date": "2020-01-01",
+      "images": [],
+      "music": null,
+      "quotes": []
+    }
+  ],
+  "timeline": [],
+  "gallery": {
+    "images": [],
+    "albums": []
+  },
+  "memories": [],
+  "playlist": {
+    "name": "Our Soundtrack",
+    "tracks": [],
+    "currentTrack": 0
+  },
+  "quotes": [],
+  "theme": {
+    "primary": "#c084fc",
+    "secondary": "#ec4899",
+    "accent": "#f0abfc",
+    "dark": "#0a0e27",
+    "light": "#ffffff",
+    "font": "system-ui"
+  },
+  "settings": {
+    "isPublic": false,
+    "allowComments": false,
+    "autoSave": true,
+    "animations": true,
+    "soundEnabled": true
+  },
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-01-01T00:00:00Z"
+}

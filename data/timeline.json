@@ -1,0 +1,31 @@
+{
+  "events": [
+    {
+      "id": "event-1",
+      "title": "First Meeting",
+      "description": "The day we met",
+      "date": "2020-01-01",
+      "type": "milestone",
+      "image": null,
+      "location": ""
+    },
+    {
+      "id": "event-2",
+      "title": "First Kiss",
+      "description": "A moment we'll never forget",
+      "date": "2020-03-15",
+      "type": "milestone",
+      "image": null,
+      "location": ""
+    },
+    {
+      "id": "event-3",
+      "title": "Said 'I Love You'",
+      "description": "When love was officially declared",
+      "date": "2020-06-01",
+      "type": "milestone",
+      "image": null,
+      "location": ""
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "quotes": [
+    {
+      "id": "quote-1",
+      "text": "In all the world, there is no heart for me like yours.",
+      "author": "Maya Angelou",
+      "category": "love"
+    },
+    {
+      "id": "quote-2",
+      "text": "You are my today and all of my tomorrows.",
+      "author": "Leo Christopher",
+      "category": "love"
+    },
+    {
+      "id": "quote-3",
+      "text": "Every love story is beautiful, but ours is my favorite.",
+      "author": "Unknown",
+      "category": "love"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "albums": [
+    {
+      "id": "album-1",
+      "title": "Our Journey",
+      "description": "Photos of our beautiful journey together",
+      "coverImage": null,
+      "images": [],
+      "createdAt": "2025-01-01T00:00:00Z"
+    }
+  ]
+}

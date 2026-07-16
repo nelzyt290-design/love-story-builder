@@ -1,0 +1,14 @@
+{
+  "memories": [
+    {
+      "id": "memory-1",
+      "title": "Our First Memory",
+      "description": "Add your memory description here",
+      "date": "2020-01-01",
+      "images": [],
+      "mood": "happy",
+      "location": "",
+      "tags": []
+    }
+  ]
+}
