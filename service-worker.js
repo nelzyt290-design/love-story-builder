@@ -1,6 +1,4 @@
 // Love Story Builder - Service Worker
-// Handles offline support, caching, and PWA functionality
-
 const CACHE_NAME = 'love-story-builder-v1';
 const RUNTIME_CACHE = 'love-story-runtime-v1';
 const ASSET_CACHE = 'love-story-assets-v1';
