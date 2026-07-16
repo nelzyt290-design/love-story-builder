@@ -36,7 +36,6 @@ A premium, cinematic, interactive web application for creating and sharing perso
 - **Lenis** - Smooth scrolling
 - **AOS** - Scroll animations
 - **Typed.js** - Text typing effects
-- **Three.js** - 3D visualizations
 - **Particles.js** - Particle effects
 
 ## 📱 Customization
